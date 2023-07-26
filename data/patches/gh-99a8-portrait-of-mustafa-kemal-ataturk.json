@@ -1,0 +1,39 @@
+{
+	"id": 1730,
+	"name": "Portrait of Mustafa Kemal Atatürk",
+	"description": "Mustafa Kemal Atatürk, or Mustafa Kemal Pasha until 1921, and Ghazi Mustafa Kemal from 1921 until 1934 (c. 1881 – 10 November 1938) was a Turkish field marshal, revolutionary statesman, author, and the founding father of the Republic of Turkey, serving as its first president from 1923 until his death in 1938. He undertook sweeping progressive reforms, which modernized Turkey into a secular, industrializing nation. Ideologically a secularist and nationalist, his policies and socio-political theories became known as Kemalism. Due to his military and political accomplishments, Atatürk is regarded as one of the most important political leaders of the 20th century.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk"
+		],
+		"subreddit": [
+			"Turkey"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-501,
+				503
+			],
+			[
+				-563,
+				503
+			],
+			[
+				-563,
+				589
+			],
+			[
+				-501,
+				589
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-532,
+			546
+		]
+	}
+}
